@@ -1,2 +1,2 @@
-# .github
-.github repo for PTOS-SPM
+# PTOS/SPM
+## Project To Open Sandbox/Salt & Pepper & Mod
